@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Oleksandr Motornyi</h1>
 <h3 align="center">🚀 Full-Cycle Quality Assurance – Manual and Automation</h3>
 
-- 🔭 I’m currently working on **I’m currently working on automating test cases and improving my skills in QA automation, focusing on Java, Selenium, and TestNG. I’m also working on some projects in Python, applying my programming skills to expand my versatility.**
+- 🔭 I’m currently working on automating test cases and improving my skills in QA automation, focusing on Java, Selenium, and TestNG. I’m also working on some projects in Python, applying my programming skills to expand my versatility.**
 
-- 🌱 I’m currently learning **I’m learning more about advanced features of Selenium, CI/CD practices, and best practices for test automation in modern DevOps pipelines. I’m also focusing on strengthening my knowledge of AWS for cloud-based test environments.**
+- 🌱 I’m learning more about advanced features of Selenium, CI/CD practices, and best practices for test automation in modern DevOps pipelines. I’m also focusing on strengthening my knowledge of AWS for cloud-based test environments.**
 
-- 👯 I’m looking to collaborate on **I’m open to collaborating on test automation projects, improving QA practices, and working on projects related to software testing, automation, and cloud technologies.**
+- 👯 I’m open to collaborating on test automation projects, improving QA practices, and working on projects related to software testing, automation, and cloud technologies.**
 
-- 🤝 I’m looking for help with **I’m looking for guidance on improving my skills in integrating automated tests into cloud environments and on optimizing performance testing strategies.**
+- 🤝 I’m looking for guidance on improving my skills in integrating automated tests into cloud environments and on optimizing performance testing strategies.**
 
-- 📫 How to reach me **You can reach me through my [LinkedIn](https://www.linkedin.com/in/oleksandr-motornyi-qa/) or via email at oleksandr.motornyi@gmail.com**
+- 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/oleksandr-motornyi-qa/) or via email at oleksandr.motornyi@gmail.com**
 
 
 <p align="left">
